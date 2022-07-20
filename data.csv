@@ -1,0 +1,18 @@
+HCPCS Codes,Count,Description
+'A' Codes,704,"Transportation Services Including Ambulance, Medical & Surgical Supplies"
+'B' Codes,50,Enteral And Parenteral Therapy
+'C' Codes,431,Temporary Codes For Use with Outpatient Prospective Payment System
+'E' Codes,610,Durable Medical Equipment
+'G' Codes,"1,893",Procedures / Professional Services (Temporary Codes)
+'H' Codes,89,Alcohol and Drug Abuse Treatment Services / Rehab Services
+'J' Codes,888,"Drugs Administered Other Than Oral Method, Chemotherapy Drugs"
+'K' Codes,172,Durable Medical Equipment For Medicare Administrative Contractors
+'L' Codes,904,"Orthotic And Prosthetic Procedures, Devices"
+'M' Codes,138,Medical Services
+'P' Codes,58,Pathology And Laboratory Services
+'Q' Codes,396,Miscellaneous Services (Temporary Codes)
+'R' Codes,3,Diagnostic Radiology Services
+'S' Codes,529,Commercial Payers (Temporary Codes)
+'T' Codes,112,Established For State Medical Agencies
+'U' Codes,5,Coronavirus Diagnostic Panel
+'V' Codes,211,"Vision, Hearing And Speech-Language Pathology Services"
